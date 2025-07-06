@@ -1,0 +1,5 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "RPi")(type "KiCad")(uri "${KIPRJMOD}/RPiZero2")(options "")(descr ""))
+  (lib (name "LS")(type "KiCad")(uri "${KIPRJMOD}/SN74AHCT1G125DBVR")(options "")(descr ""))
+)
