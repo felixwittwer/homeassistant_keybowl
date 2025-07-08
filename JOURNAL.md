@@ -9,7 +9,7 @@ created_at: "2024-07-06"
 
 Here you can see a documentation of the entire development process.
 
-**Total hours spent: 8h**
+**Total hours spent: 9h**
 
 ## July 6th (7h)
 
@@ -34,7 +34,7 @@ This time I really tried making my schematics a bit better than the last one. I 
   <img src="./journal%20files/2025-07-06/KiCad_pcb_design.png" width="500" />
 </p>
 
-## July 8th (1h)
+## July 8th (2h)
 
 ### Session 1 (1h) adding some branding
 
@@ -45,3 +45,9 @@ Every project need some branding and I need some logos to make the PCB beautiful
 </p>
 
 <img src="./journal files/2025-07-08/logo_inside_inkscape.png" width="700" />
+
+### Session 2 (1h) working on the PCB
+
+Now with a cool logo I could work further on the PCB. After adding the logo it seemed still a bit empty to me so I added some cool notes. If somebody else that me is going to assemlble this he is going to have some fun. AN jeah I defenitely discovered the path feature for the siklscreen lines/arrows. Some engenieet at JLC is going to get crazy after seeing my silkscreen :).
+
+<img src="./journal files/2025-07-08/pcb_with_branding_and_notes.png" width="700" />
