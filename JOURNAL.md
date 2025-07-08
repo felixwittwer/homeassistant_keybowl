@@ -9,7 +9,7 @@ created_at: "2024-07-06"
 
 Here you can see a documentation of the entire development process.
 
-**Total hours spent: 7h**
+**Total hours spent: 8h**
 
 ## July 6th (7h)
 
@@ -33,3 +33,15 @@ This time I really tried making my schematics a bit better than the last one. I 
   <img src="./journal%20files/2025-07-06/KiCad_schematics.png" width="500" />
   <img src="./journal%20files/2025-07-06/KiCad_pcb_design.png" width="500" />
 </p>
+
+## July 8th (1h)
+
+### Session 1 (1h) adding some branding
+
+Every project need some branding and I need some logos to make the PCB beautiful :). Logo is made with Inkscape.
+
+<p float="left">
+  <img src="./branding/logo_text_white.png" width="500" />
+</p>
+
+<img src="./journal files/2025-07-08/logo_inside_inkscape.png" width="700" />

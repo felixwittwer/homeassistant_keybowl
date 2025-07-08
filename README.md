@@ -2,7 +2,12 @@
 
 ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) &nbsp; &nbsp; ![Static Badge](https://img.shields.io/badge/Hack_Club_HIGHWAY_TO_UNDERCITY-Hack_Club?style=flat&logo=hackclub&color=white)
 
+<img src="./branding/logo_text_white.png" width="600" />
+
 </div>
+
+<br>
+<br>
 
 # homeassistant_keybowl
 a smart bowl for your keys with Homeassistant integration and a display to show simple dashoards.
