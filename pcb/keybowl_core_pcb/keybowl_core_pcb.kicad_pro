@@ -489,7 +489,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../../cad/keybowl_core_pcb.step",
       "svg": "",
       "vrml": ""
     },

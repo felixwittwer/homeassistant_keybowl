@@ -51,3 +51,9 @@ Every project need some branding and I need some logos to make the PCB beautiful
 Now with a cool logo I could work further on the PCB. After adding the logo it seemed still a bit empty to me so I added some cool notes. If somebody else that me is going to assemlble this he is going to have some fun. AN jeah I defenitely discovered the path feature for the siklscreen lines/arrows. Some engenieet at JLC is going to get crazy after seeing my silkscreen :).
 
 <img src="./journal files/2025-07-08/pcb_with_branding_and_notes.png" width="700" />
+
+## July 18th (1h) assemble pcb in Fusion
+
+Today I just exported the PCB from KiCad as a STEP to Fusion and sarted putting all the pars on it. The next step will be to design the keybowl itself and place the PCB inside. The Keybowl itself will porbably be made out of Wood with some small 3D printed parts like a bezzle around the screen and keyswitches.
+
+<img src="./journal files/2025-07-18/assembled_pcb.png" width="700" />
