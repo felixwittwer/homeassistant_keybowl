@@ -9,7 +9,7 @@ created_at: "2024-07-06"
 
 Here you can see a documentation of the entire development process.
 
-**Total hours spent: 9h**
+**Total hours spent: 14h**
 
 ## July 6th (7h)
 
@@ -57,3 +57,16 @@ Now with a cool logo I could work further on the PCB. After adding the logo it s
 Today I just exported the PCB from KiCad as a STEP to Fusion and sarted putting all the pars on it. The next step will be to design the keybowl itself and place the PCB inside. The Keybowl itself will porbably be made out of Wood with some small 3D printed parts like a bezzle around the screen and keyswitches.
 
 <img src="./journal files/2025-07-18/assembled_pcb.png" width="700" />
+
+## July 19th (4h)
+
+### Session 1 (4h) modeling the case
+
+After creating a model of the assembled PCB I designed a housing around it. The main hosusing will be made out of wood only the parts for holding the PCb, RFID reader and the bezzle will be 3D printed. I designed the bezzle in such a way that it lays over the part that will be removed with a roter so if I mess up there it is at least not hidden. The parts fo the PCB and RFID mounting are also seperate to that these can be changed independently. So if someone chooses a bigger RFID reader not the whole structer needs to be reprinted. It also took me a while to figure out how I can mount everything while also making it possible to assemble. If the PCB is mouted inside the housing you can not reach the screws of the bezzle. Therefore I mad some additional holes inside the mounting to make the screws actually reachable.  
+
+<img src="./journal files/2025-07-19/model_inside_fusion.png" />
+
+<p float="left">
+  <img src="./journal%20files/2025-07-19/3D_printing_parts.png" height="350" />
+  <img src="./journal%20files/2025-07-19/complete_housing.png" height="350" />
+</p>
