@@ -9,7 +9,7 @@ created_at: "2024-07-06"
 
 Here you can see a documentation of the entire development process.
 
-**Total hours spent: 14h**
+**Total hours spent: 15h**
 
 ## July 6th (7h)
 
@@ -58,7 +58,7 @@ Today I just exported the PCB from KiCad as a STEP to Fusion and sarted putting 
 
 <img src="./journal files/2025-07-18/assembled_pcb.png" width="700" />
 
-## July 19th (4h)
+## July 19th (5h)
 
 ### Session 1 (4h) modeling the case
 
@@ -70,3 +70,9 @@ After creating a model of the assembled PCB I designed a housing around it. The 
   <img src="./journal%20files/2025-07-19/3D_printing_parts.png" height="350" />
   <img src="./journal%20files/2025-07-19/complete_housing.png" height="350" />
 </p>
+
+### Session 2 (1h) creating production files and manufacturing instructions
+
+I hav now created a stl file and step file for each part so that they can easily be 3D printed. Because recreating the woodden base if you have not designed it is pretty difficult I created some drawings with whom anybody can build the main housing. If you have large enough 3D printer you could probably also just print it but wood looks a bit nicer.
+
+<img src="./journal files/2025-07-19/drawings.png" />
