@@ -6503,7 +6503,7 @@
 			)
 		)
 	)
-	(global_label "GPIO18"
+	(global_label "GPIO16"
 		(shape input)
 		(at 29.21 96.52 180)
 		(fields_autoplaced yes)
@@ -6547,7 +6547,7 @@
 			)
 		)
 	)
-	(global_label "GPIO18"
+	(global_label "GPIO16"
 		(shape input)
 		(at 200.66 92.71 0)
 		(fields_autoplaced yes)

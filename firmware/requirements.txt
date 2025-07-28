@@ -1,0 +1,7 @@
+pyembedded
+paho-mqtt
+requests
+Pillow
+RPi.GPIO
+spidev
+neopixel
