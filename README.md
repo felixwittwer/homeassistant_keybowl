@@ -77,7 +77,7 @@ Detailed instructions on how to setup the firmware can be found inside the [firm
 | | total | 2,9369 USD
 
 <br>
-(optional parts will not be populated)
+optional parts (will not be populated) keep in mind to bridge footprints
 
 | part name | amount | price | link | note |
 | --------- | ------ | ----- | ---- | ---- |
@@ -91,7 +91,7 @@ Detailed instructions on how to setup the firmware can be found inside the [firm
 
 <br>
 <br>
-fro people who don't want to order via aliexpress or simply can't here is a BOM with mostly amazon equivalients
+for people who don't want to order via aliexpress or simply can't here is a BOM with mostly amazon equivalients
 
 ### Amazon (mostly)
 
