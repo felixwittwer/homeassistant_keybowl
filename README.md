@@ -21,26 +21,40 @@ The Keybowl should speed up your everyday routine by presenting you all the info
 
 The Keybowl siply will be a smart everday helper to make my and the life of others a bit easier and reduce the time you have to look up some information on your phone.
 
-## PCB
+## The Project
+
+### PCB
 
 <img src="./pcb/images/pcb_complete_render.png" />
 
 <img src="./pcb/images/pcb_render.png" />
 
 <p float="left">
-  <img src="./pcb/images/pcb.png" height="350" />
-  <img src="./pcb/images/schematics.png" height="350" />
+  <img src="./pcb/images/pcb.png" width=49% />
+  <img src="./pcb/images/schematics.png" width=49% />
 </p>
 
-## whole Project
+### complete assembly
 
 A screenshot of the whole project. Sorry no beautiful render fusions standard wood textures look just ugly :(.
 
 <img src="./images/Keybowl.png" />
 
+<img src="./images/wiring.png" />
+
+### CAD 
+
+All CAD files can be found inside the [cad](./cad/) directory
+
+[keybowl_complete](./cad/Keybowl%20complete.step) is the whole project and the other files are individual parts of the complete project.
+
+### Firmware
+
+Detailed instructions on how to setup the firmware can be found inside the [firmware folders README](./firmware/README.md)
+
 ## BOM
 
-### Aliexpress
+### Aliexpress (for Highway)
 
 **total:** 141.60 USD
 
