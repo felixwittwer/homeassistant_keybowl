@@ -9,7 +9,7 @@ created_at: "2024-07-06"
 
 Here you can see a documentation of the entire development process.
 
-**Total hours spent: 22h**
+**Total hours spent: 26h**
 
 ## July 6th (7h)
 
@@ -82,3 +82,17 @@ I hav now created a stl file and step file for each part so that they can easily
 Since all the CAD and electronics are finished I only needed to write some firmware to make the project almost complete in terms of the planing phase. Say so it is not the first time for me using Python but I am defenitely no expert and creating a clean structure that I myself and also others could understand was dificult but I think I managed to put something good together. The firmware is relatively well structured and I added a README just for setting up and installing the firmware on the Pi Zero. During the process of writing the Firmware I even catched a small error inside my scematics. Fortunately it was not something that would have broken the pcb but defenitely something that willl have confused someone that knows how to read schematics. :)
 
 <img src="./journal files/2025-07-28/writing_firmware.png" />
+
+## July 29th (2h)
+
+### Session 1 (2h) creating production files especially for PCB assembly
+
+The final thing taht needed to be done for production are the gerber, bom an placement files for the PCB. creating gerbers is a nobrainer for me since I have done it many times but making everything work for PCBA is sometimes a bit difficult. numbers have problems with their seperators, rotation or and placement of the part is off ot the package size is not matching. In the end it took me two hours to get everything right.
+
+<img src="./journal files/2025-07-29/jlc_pcb_production.png" />
+
+### Session 2 (2h) getting ready for submission
+
+For the final submission there are some things that need to be done besides creating the production files. I also wanted to create some cool renders for my README to show off the PCB I made. The rendering of wood in Fusion turned out to be ugly so I decided on just including a screenshot of the final CAD model.
+
+<img src="./pcb/images/pcb_render.png" />
