@@ -34,6 +34,8 @@ The Keybowl siply will be a smart everday helper to make my and the life of othe
   <img src="./pcb/images/schematics.png" width=49% />
 </p>
 
+Be aware that some parts on the rende will not be populated on the PCB because they are not really needed but may be in the future or while I am building the project so for futureprovness the are on in the pcb design and in the rendered images. Have a look at the BOM so se which parts are ment and be aware to bridge the if they are not populated.
+
 ### complete assembly
 
 A screenshot of the whole project. Sorry no beautiful render fusions standard wood textures look just ugly :(.
