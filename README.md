@@ -68,6 +68,25 @@ Detailed instructions on how to setup the firmware can be found inside the [firm
 | basic DSA Keycaps | 6 | 1.19 USD | https://de.aliexpress.com/item/1005006005905021.html?spm=a2g0o.productlist.main.11.3fe97aeaDABDMY&algo_pvid=8be567c0-1498-4e45-9ebd-240fe64a8e61&pdp_ext_f=%7B%22order%22%3A%22525%22%2C%22eval%22%3A%221%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A | come as 20 pcs set |
 | PCB and PCBA | 1 | ~ 50 USD |  https://jlcpcb.com/ | price is subject to JLCs review |
 
+**--- PCB Assembly stuff if you want to populate yourself (prices from JLC PCBA) ---**
+| part name | amount | price | link | note |
+| --------- | ------ | ----- | ---- | ---- |
+| capacitor 0.1 uF | 9 | $0.1254 | https://jlcpcb.com/partdetail/C30926 | ---- |
+| WS2812B LEDs | 9 | $2.3471 | https://jlcpcb.com/partdetail/C2843785 | ---- |
+| diodes | 6 | $0.4644 | https://jlcpcb.com/partdetail/C24372 | ---- |
+| | total | 2,9369 USD
+
+<br>
+(optional parts will not be populated)
+
+| part name | amount | price | link | note |
+| --------- | ------ | ----- | ---- | ---- |
+| capacitor 10uF  | 1 | $0.1098 | https://jlcpcb.com/partdetail/C39060 | ---- |
+| Levelshifter 74AHCT1G125 | 1 | $0.3820 | https://jlcpcb.com/partdetail/C842287 | ---- |
+| Resistor 470 ohm | 9 | $0.0300 | https://jlcpcb.com/partdetail/C21266 | ---- |
+| usb-c connector | 1 | 0.99 USD | https://de.aliexpress.com/item/1005008164395076.html?spm=a2g0o.productlist.main.5.3a0390d4i1qG9U&algo_pvid=b5963a54-6f39-4deb-8dc8-244e51b0128a&pdp_ext_f=%7B%22order%22%3A%2252%22%2C%22eval%22%3A%221%22%7D&utparam-url=scene%3Asearch%7Cquery_from%3A | ----
+| | total | 1,5118 USD
+
 **total:** 141.60 USD
 
 <br>
